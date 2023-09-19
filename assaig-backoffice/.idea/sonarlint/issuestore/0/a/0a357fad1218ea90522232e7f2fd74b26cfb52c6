@@ -1,0 +1,12 @@
+
+kphp:S103="KSplit this 195 characters long line (which is greater than 120 authorized).(²ž„·þÿÿÿÿ8ý×Àúç0
+_	php:S18082"JPut one space between the closing parenthesis and the opening curly brace.(ôÄº£
+d	php:S18088"JPut one space between the closing parenthesis and the opening curly brace.(’•°®ÿÿÿÿÿ
+_	php:S1808<"JPut one space between the closing parenthesis and the opening curly brace.(Í¬¶
+k	php:S18088"QPut exactly one space between the "function" keyword and the opening parenthesis.(’•°®ÿÿÿÿÿ
+@	php:S2003"&Replace "require" with "require_once".(æ¢îþúÿÿÿÿ
+3php:S125)"Remove this commented out code.(Ø»­Ï
+8php:S125/"Remove this commented out code.(åò—“ÿÿÿÿÿ
+8php:S1255"Remove this commented out code.(æ¼Øžùÿÿÿÿ
+8php:S125J"Remove this commented out code.(“Ôòœÿÿÿÿÿ
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(æ¢îþúÿÿÿÿ
